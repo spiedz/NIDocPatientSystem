@@ -25,13 +25,6 @@ NIDoc Patient System is a console-based application that manages patient records
   - Adult: 18-65 years
   - OAP (Old Age Pensioner): Over 65 years
 
-## Technical Details
-
-- **Language**: Java
-- **IDE**: NetBeans
-- **Build System**: Apache Ant
-- **Student ID**: 50099648
-
 ## Project Structure
 
 ```
@@ -78,9 +71,5 @@ The system comes pre-loaded with 5 test patients for demonstration purposes.
 
 ## Author
 
-Student ID: 50099648
-
-## License
-
-Educational project - all rights reserved.
+Michal Marcinko
 
